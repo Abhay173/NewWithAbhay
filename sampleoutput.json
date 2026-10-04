@@ -1,0 +1,67 @@
+ [
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "John Smith",
+    "title": "Artificial Intelligence is Transforming Education",
+    "description": "Schools and universities are adopting AI-powered tools to improve learning experiences for students worldwide.",
+    "url": "https://example.com/news/ai-education",
+    "urlToImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+    "publishedAt": "2026-08-01T08:00:00Z",
+    "content": "Artificial intelligence is changing the education sector by providing personalized learning experiences and automating administrative tasks..."
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Emily Johnson",
+    "title": "India Launches New Green Energy Initiative",
+    "description": "The government announced a nationwide plan to expand renewable energy production.",
+    "url": "https://example.com/news/green-energy",
+    "urlToImage": "https://images.unsplash.com/photo-1509391366360-2e959784a276",
+    "publishedAt": "2026-08-01T09:30:00Z",
+    "content": "The new initiative aims to increase solar and wind energy production while reducing carbon emissions..."
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "David Lee",
+    "title": "React 20 Introduces New Performance Features",
+    "description": "The latest version of React focuses on faster rendering and improved developer experience.",
+    "url": "https://example.com/news/react20",
+    "urlToImage": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+    "publishedAt": "2026-08-01T10:15:00Z",
+    "content": "Developers are excited about the latest React release, which includes performance improvements and new APIs..."
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "Michael Brown",
+    "title": "India Wins Thrilling Cricket Match",
+    "description": "A spectacular century helped India secure a memorable victory in the final overs.",
+    "url": "https://example.com/news/cricket",
+    "urlToImage": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e",
+    "publishedAt": "2026-08-01T11:00:00Z",
+    "content": "The Indian cricket team chased down a challenging target thanks to an outstanding batting performance..."
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Sophia Wilson",
+    "title": "Electric Cars Continue to Gain Popularity",
+    "description": "Global EV sales reached a new record as manufacturers introduced affordable models.",
+    "url": "https://example.com/news/electric-cars",
+    "urlToImage": "https://images.unsplash.com/photo-1553440569-bcc63803a83d",
+    "publishedAt": "2026-08-01T12:00:00Z",
+    "content": "Consumers are increasingly choosing electric vehicles because of lower operating costs and government incentives..."
+  }
+]
